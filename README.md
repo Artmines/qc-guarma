@@ -16,3 +16,7 @@
 
 # Starting the resource
 - add the following to your server.cfg file : ensure qc-guarma
+
+# Credit is Due 
+
+RSG Core 
